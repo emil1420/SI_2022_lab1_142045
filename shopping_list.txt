@@ -1,5 +1,5 @@
 milk x 2
-eggs x 1
+eggs x 12
 sausage x 3
 beer x 6
 oranges x 25
