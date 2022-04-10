@@ -1,5 +1,6 @@
 milk x 2
-eggs x 1
+eggs x 12
 sausage x 3
-beer x 6
-oranges x 4
+beer x 9
+oranges x 25
+watermelon x 2
