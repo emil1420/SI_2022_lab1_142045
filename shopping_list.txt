@@ -2,8 +2,14 @@ milk x 2
 eggs x 12
 sausage x 3
 <<<<<<< HEAD
+<<<<<<< HEAD
 beer x 9
 =======
 beer x 6
 >>>>>>> branch1
 oranges x 25
+=======
+beer x 9
+oranges x 25
+watermelon x 2
+>>>>>>> branch2
